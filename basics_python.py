@@ -31,4 +31,5 @@ is_Genius = True
 fst = input()
 scnd = input()
 
-print(int(fst) + int(scnd))
+print(int(fst) + int(scnd))  # agr isko ki sum variable me store krwate to bhi humko uss sum kof print krwane ke liye
+# us 'sum' ko string me convert krna pdta
